@@ -1,0 +1,71 @@
+{
+  "patients": [
+    {
+      "firstName": "Wiz",
+      "secondName": "kid",
+      "nationalId": "34680785",
+      "telephoneNo": "34680785",
+      "id": 3
+    },
+    {
+      "firstName": "Allen",
+      "secondName": "Shamrock",
+      "nationalId": "34680785",
+      "telephoneNo": "34680785",
+      "id": 4
+    },
+    {
+      "firstName": "Sauti",
+      "secondName": "sol",
+      "nationalId": "36897555",
+      "telephoneNo": "36897555",
+      "id": 5
+    }
+  ],
+  "doctors": [
+    {
+      "doctorName": "Dr John Doe",
+      "contact": "+1234567890",
+      "specialization": "Individual Counseling"
+    },
+    {
+      "doctorName": "Dr. Jane Smith",
+      "contact": "+9876543210",
+      "specialization": "Parent Mood & Anxiety"
+    },
+    {
+      "doctorName": "Dr. Michael Johnson",
+      "contact": "+1112223333",
+      "specialization": "Couples counselling"
+    },
+    {
+      "doctorName": "Dr. Emily Davis",
+      "contact": "+4445556666",
+      "specialization": "Grief & Loss"
+    },
+    {
+      "doctorName": "Dr. Jagaban ",
+      "contact": "+4299999945",
+      "specialization": "PGender Identity"
+    },
+    {
+      "doctorName": "Dr.Philips Manuel",
+      "contact": "+347845556666",
+      "specialization": "PTSD & Trauma"
+    }
+  ],
+  "emails": [
+    {
+      "name": "Allen Shamrock",
+      "email": "allen@gmail.com",
+      "textarea": "Hey there!",
+      "id": 1
+    },
+    {
+      "name": "allen",
+      "email": "allen@gmail.com",
+      "textarea": "Hey there!",
+      "id": 2
+    }
+  ]
+}
